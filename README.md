@@ -19,3 +19,9 @@ the FID we used CLIP and IV3 as feature extractors. We show state of the art res
 with the addition of the synthetic samples to demonstrate their effectiveness in managing the unbalancing of the dataset.
 As future work, we want to better comprehend the generation capabilities of the Denoising Diffusion Probabilistic models and apply them to other deep learning and physical tasks (e.g., AIA to HMI translation, solar flare prediction) being able to investigate these
 phenomena more extensively with more data.
+
+## Architecture
+
+![Unet Architecture]([image_url](https://github.com/Piogeon/Modelling_Solar_Image_with_DDPM/blob/main/images/unet.png))
+
+![Forward and Backward process]([image_url](https://github.com/Piogeon/Modelling_Solar_Image_with_DDPM/blob/main/images/diffusion.png))
