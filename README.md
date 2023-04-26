@@ -22,6 +22,6 @@ phenomena more extensively with more data.
 
 ## Architecture
 
-![Unet Architecture]([https://github.com/Piogeon/Modelling_Solar_Image_with_DDPM/blob/main/images/unet.png])
+![Unet Architecture](https://github.com/Piogeon/Modelling_Solar_Image_with_DDPM/blob/main/images/unet.png)
 
-![Forward and Backward process]([https://github.com/Piogeon/Modelling_Solar_Image_with_DDPM/blob/main/images/diffusion.png])
+![Forward and Backward process](https://github.com/Piogeon/Modelling_Solar_Image_with_DDPM/blob/main/images/diffusion.png)
